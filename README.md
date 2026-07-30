@@ -6,7 +6,7 @@ Code and results for the HM-800 project: a journalism-informed re-annotation of 
 
 - **Dataset (HM-800):** https://huggingface.co/datasets/tanmayvasvani/hindi-misinfo-taxonomy-800 (CC BY 4.0, with per-post rationales and adjudication flags)
 - **Paper:** arXiv link forthcoming
-- **Base corpus:** [CONSTRAINT 2021 Hindi Hostility Detection](https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021) (Bhardwaj et al., 2020)
+- **Base corpus:** [CONSTRAINT 2021 Hindi Hostility Detection](https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021) (Bhardwaj et al., 2021)
 
 ## Repository structure
 

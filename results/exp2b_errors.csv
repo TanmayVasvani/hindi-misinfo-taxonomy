@@ -1,0 +1,55 @@
+global_id,Post,Category,predicted,Reason
+HM0422,"बाल अपहर्ताओं के गिरोह के बारे में लोगों को सूचित करते’ हुए यूपी पुलिस का वीडियो है।
+
+",MAN,OLD,"staged awareness dramatization, falsely called UP Police alert"
+HM0754,"ओसमानिया हॉस्पिटल का ये हाल है कोरोना के डेड बॉडीज को लेकर इस वायरस को मज़ाक मत समझो प्लीज' |
+यह ओसमानिया हॉस्पिटल का हाल है | जल्द हैदराबाद सीरिया जैसा हो जाएगा | अगर थोड़े दिन ऐसे ही हाल है तो अपन लगा को फ़र्ज़ नमाज़ से बढ़कर जनाज़े की नमाज़ पड़ने पड़ते |
+
+",OLD,MAN,"video from elsewhere, reshared as Osmania Hospital COVID bodies"
+HM0654,ये वीडियो गलवान घाटी का है। और भारतीय सैनिक वहां गणेश उत्सव मना रहे हैं।,OLD,MAN,"real soldiers' Ganesh-utsav video from elsewhere, reshared as Galwan"
+HM0513,#Coronavirus परीक्षण किट आईसीएमआर द्वारा बढ़े हुए मूल्य पर खरीदे गए,MAN,FAB,"real kit-price row, but ICMR never paid; 'bought' claim false"
+HM0427,अमित शाह 9 जून को बिहार में रैली करेंगे। सरकार ने इसलिए ही लॉकडाउन हटाया है,MAN,FAB,"real virtual rally, false 'lockdown lifted for rally' spin"
+HM0354,"@Sudhir_mishr *हिमालया* कंपनी के मालिक का बयान
+
+हम पहले *मुसलमान* हैं।
+
+हम भारत के प्रति *वफादार नहीं* हैं।
+
+हम भारत के *मालिक* हैं।",FAB,MAN,Himalaya owner made no such statement; invented quote
+HM0832,"हमारे भारत के प्रधानमंत्री नरेंद्र मोदी ने सुशांत सिंह राजपूत की मौत के मामले में सीबीआई इन्क्वायरी के आदेश दिए हैं.
+
+",MAN,FAB,"real CBI probe, false 'Modi ordered it' attribution"
+HM1406,"विश्व स्तरीय स्विमिंग पूल ,एक और वादा पूरा ? कृपया करके केजरीवाल जी का नाम ना लें",MAN,FAB,"pool photo from elsewhere, falsely credited to Delhi govt | adjudicated: Rule 5 (burden of proof on SAT): no satire origin traceable for the pool image (web searches Jul 2026 found no such fact-check/archive); documented element is a pool photo falsely credited to Delhi govt. Flips to SAT if a satire origin is ever traced."
+HM0787,पूर्व प्रधानमंत्री इंदिरा गांधी की दुर्लभ तस्वीरों में से एक। 1971 में लेह के जवानों को संबोधित करते हुए।,MAN,OLD,"real Indira-with-troops photo, false '1971 Leh' details added"
+HM1113,"दिनांक 13 सितंबर 1893 को स्वामी विवेकानंद का एक बहुत ही दुर्लभ वीडियो जिन्होंने इंटर नेशनल ऑल रिलिजन समिट में एकअद्भुत भाषण दिया ।
+
+",FAB,MAN,no real Vivekananda footage exists; enactment shared as real
+HM0948,"जापानी मनोचिकित्सक अकिओशी किताओका ने बनाई छवियों को दर्शकों की मदद करने के लिए डिज़ाइन किया गया है ताकि वे अपने दिमाग का स्तर माप सकें | अनिवार्य रूप से, यदि आप इन चित्रों को देखते हैं और वे अभी भी नहीं घूम रहें हैं ( तनाव मुक्त ), धीरे-धीरे घूम रहे हैं ( थोड़ा तनाव ), तेजी से धूम रहे हैं ( ज्यादा तनाव ), आपका परिणाम क्या है???
+
+",MAN,FAB,"real Kitaoka illusions, false 'stress measurement' claim added"
+HM1348,"पत्र के शुरुआत सेना के लोगों को नव वर्ष की शुभकामनाएं देते हुए होती है, बाद में यह पढ़ा जा सकता है की भारतीय सेना ने नौशेरा में वायु सेना से ज़्यादा अच्छे से काम किया था जब पुलवामा और बालाकोट के इर्द-गिर्द तनाव बढ़ा था | पत्र में आगे लिखा है की चीफ़ ऑफ़ डिफेन्स स्टाफ की हैसियत से रावत जल सेना और वायु सेना का संचालन भारतीय आर्मी की तर्ज़ पर करेंगे|
+
+",FAB,MAN,forged 'army letter'; no such authentic document
+HM0423,"दाएं कोने में ड्यूरेक्स लोगो के साथ और हैशटैग '#ShameOnDelhiPolice' के साथ ""बेटर प्रोटेक्शन दैन दिल्ली पुलिस"" लिखा हुआ है।
+
+",FAB,MAN,Durex issued no such ad; fabricated creative
+HM0430,"“पप्जी गेम में पागल हो गया कृपया अपने बच्चो को मोबाईल पर ऐसे गेम नही खेलने दे ।
+
+",MAN,FAB,"unrelated patient video, false 'PUBG madness' claim"
+HM0622,"जापान में एक बड़ी आपदा के बाद 24 घंटे के भीतर इमरजेंसी सड़क का निर्माण किया गया ताकि भूस्खलन की के बाद ब्लॉकेज हटा कर ट्रैफिक का प्रवाह समान्य बनाया जाए।
+
+",MAN,FAB,"real Japan road-repair photos, false '24-hour' exaggeration"
+HM0691,"मिजोरम की सब्जी मंडी सामाजिक दूरियों को बनाए रखती हुई।
+",OLD,MAN,"market photo from elsewhere, reshared as Mizoram distancing"
+HM0068,"यह जम्मू और कश्मीर का एक नवीनतम वीडियो (16 अगस्त) है, श्रीनगर के उपनगरीय इलाके जहां भारतीय सेना ने 4 हिरासत में लिए गए कश्मीरी लड़कों को मानव ढाल के रुप में इस्तेमाल किया ताकि भारत-विरोधी नारे लगाने वाले लड़कों को रोका जा सके और बहादुर सैनिकों ने उन्हें गाली देते हुए कहा कि ""अब पत्थर फेंक दो।
+
+",MAN,OLD,"old/unrelated video, false 'human shields on Aug 16' claim"
+HM0673,"15 लाख रूपये महीने की तनख्वाह पर एक लेडी मेकअप आर्टिस्ट के हाथो सज धज कर रोने निकले नौटंकीबाज।
+
+",FAB,MAN,no ₹15-lakh makeup artist exists; invented mocking detail
+HM0448,कृपया रात के वक़्त बाहर ना जाए क्योंकि कुछ प्रवासियों/मज़दूरों/गरीब लोग पैसों /आभूषणों के लिए मासूमों की हत्या कर रहे है क्योंकि मार्केट में नकद की कमी है | इस तरह की वारदाते आने वाले समय में बार-बार होने ही वाली है...क्योंकि देशभर में नकद रोटेशन नहीं हो रहा है और दैनिक मज़दूरों के पास कोई नकद राशि नहीं है |,FAB,MAN,no migrant night-killing spree; invented panic warning
+HM0084,"राष्ट्रीय स्वयंसेवक संघ (आरएसएस) और बजरंग दल के सदस्यों ने उनकी हत्या करने की कोशिश की है ।
+
+",MAN,FAB,"real attack claim, assailants falsely identified as RSS/Bajrang Dal"
+HM0869,"और लो...अमेरिका में कोरोना की वैक्सीन बना रही टीम का लीडर भारतीय मुस्लिम है, डॉक्टर फ़राज़ ज़ैदी. अब सवाल है की क्या अंधभक्त दवा लेंगे
+",FAB,MAN,no such 'Dr Faraz Zaidi' leading US vaccine team; invented

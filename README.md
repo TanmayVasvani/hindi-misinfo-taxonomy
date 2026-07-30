@@ -26,4 +26,4 @@ Key headline: naive fine-tuning on the 3-class task collapses to the majority ba
 
 ## Citation
 
-Citation entry will be added upon arXiv posting. Please also cite the CONSTRAINT 2021 dataset (Bhardwaj et al., 2020, arXiv:2011.03588).
+Citation entry will be added upon arXiv posting. Please also cite the CONSTRAINT 2021 dataset (Bhardwaj et al., 2021, arXiv:2011.03588).
